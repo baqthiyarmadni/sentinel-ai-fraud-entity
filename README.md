@@ -3,6 +3,26 @@
 Sentinel-AI-Fraud-Entity (S.A.F.E) is an Enterprise event-driven fraud detection platform 
 using ASP.NET Core microservices, Kafka, Angular, PostgreSQL and MongoDB.
 
+# SentinelAI Fraud Detection Platform
+
+Enterprise fraud monitoring platform built using:
+
+- ASP.NET Core Microservices
+- Angular
+- Apache Kafka
+- PostgreSQL
+- MongoDB
+- GraphQL
+
+Architecture:
+Event-driven microservices architecture.
+
+Services:
+Transaction Service
+Fraud Detection Service
+Alert Service
+Audit Service
+
 ## Getting Started
 
 ### Prerequisites
